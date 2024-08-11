@@ -1,4 +1,4 @@
-# CSS_HTML_PROJECTS
+# CSS_HTML_PROJECTS ✨
 
 Here are some of my projects with links to the code and demo:
 
